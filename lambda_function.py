@@ -29,8 +29,8 @@ producer = KafkaProducer(
    security_protocol='SASL_SSL',
    sasl_mechanism='PLAIN',
    ssl_context=context,
-   sasl_plain_username='KAQ6FBDAGJHXTNUD',
-   sasl_plain_password='+Vz/bZr89unWz8f2ufuDUeJgKSB2/BBFtAsxgCM6cstG2WrO6cK4lMTfoTyewSUv')
+   sasl_plain_username='',
+   sasl_plain_password='')
 
 
 
