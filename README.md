@@ -21,12 +21,12 @@ Pie Chart : Compare the distribution of population in regions
 
 ### 2. Kafka and Spark Setup
 
-- Test sample example in AWS
-Use EMR cluster
-Create S3 bucket and stores sample dataset and sample code
-Dataset : 2016-stack-overflow-survey-responses.csv
-Code : StackOverFlowSurvery.py
-Sample : Check the dogs_vs_cats and job_satisfaction only. By using withcolumn, floor the count value
+#### Sample test in AWS
+- Use EMR cluster
+- Create S3 bucket and stores sample dataset and sample code
+- Dataset : 2016-stack-overflow-survey-responses.csv
+- Code : StackOverFlowSurvery.py
+- Sample : Check the dogs_vs_cats and job_satisfaction only. By using withcolumn, floor the count value
 
 ![Screenshot](sample.png)
  
